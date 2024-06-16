@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031623488633",
+    "project_id": "notedown-f30d8",
+    "storage_bucket": "notedown-f30d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031623488633:android:045b703a2e0826c5bed0a8",
+        "android_client_info": {
+          "package_name": "com.example.notedown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsoWdt7Wu4VbfZxmqhkctnWv0NYgmggEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
